@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    akamai-edgegrid (1.0.1)
+    oj (2.9.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  akamai-edgegrid
+  oj
